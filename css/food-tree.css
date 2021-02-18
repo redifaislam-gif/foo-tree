@@ -499,9 +499,15 @@ font-weight:600;
 	
 }
 .testi-box1 img {
-    width: 237px;
-    height: 57px;
+    width: 17px;
+    height: 40px;
     margin-bottom: 20px;
+	 
+}
+.owl-carousel .owl-item img {
+	text-align:center;
+    display: block;
+    width: auto;
 }
 .testi-box1 {
     position: relative;
@@ -509,7 +515,9 @@ font-weight:600;
     min-height: 390px;
     margin: 50px 250px 50px 250px;
     padding: 100px 80px 70px 80px;
-    text-align: center;
+   
+	justify-content:center;
+	align-items:center;
     background-color: #FCF7F1;
     box-shadow: 10px 15px 20px rgb(118 130 183 / 30%);
 }
