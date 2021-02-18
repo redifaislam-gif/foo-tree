@@ -1,0 +1,399 @@
+
+@media only screen and (max-width:1466px){
+	
+	
+	section.mix-section .populer-section img {
+    padding-left:1px;
+    max-width:800px;
+}
+}
+@media only screen and (max-width:1400px){
+	header#header-section{
+		padding:0;
+		margin:0;
+	}
+	div.icon-box {
+    
+    
+    justify-content: center;
+    align-items: center;
+    margin-bottom:80px;
+    margin-top: -200px;
+    margin-bottom: 240px;
+}
+section.pass-section,
+section.about-section {
+   
+    min-height: auto;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding:80px;
+	margin-bottom:50px;
+}
+div.pass-box{
+	
+	 position: relative;
+    padding-top: 100px;
+    margin-right: 14px;
+    margin-left: 15px;
+}
+div.about-box {
+    position: relative;
+    padding-top: 0px;
+    margin-right: 14px;
+    margin-left: 14px;
+}
+	
+}
+
+
+@media only screen and (max-width:1384px){
+	
+	section.mix-section .protfolio-menu{
+	justify-content:center;
+	align-items:center;
+	margin-bottom:50px;
+	flex-wrap:wrap;
+	
+}
+
+section.mix-section .protfolio-menu li{
+	flex:1 1 290px;
+}
+}
+@media only screen and (max-width:1257px){
+	nav.navbar ul {
+    position: relative;
+    display: flex;
+    margin-top: 15px;
+	margin:0;
+	padding:0;
+    /* margin-left: 50px; */
+}
+div.testi-box1 {
+    
+    max-width: 1094px;
+    min-height: 390px;
+    margin: 50px 155px 50px 155px;
+    padding: 0px 80px 70px 80px;
+   
+}
+	
+}
+@media only screen and (max-width:1207px){
+	
+		nav.navbar ul {
+    position: relative;
+    display: flex;
+    margin-top: 15px;
+ margin-left: 10px;
+	
+}
+div.site-hed-btn a {
+    max-width: 100px;
+    height: 20px;
+    color: #FFFFFF;
+    font-size: 17px;
+    margin-top:10px;
+   
+    padding: 8px 19px;
+    
+}
+	
+	nav.navbar ul li a {
+    padding: 0 15px;
+   
+    font-size: 16px;
+    
+    line-height: 338px;
+   
+}
+div.site-hed-btn {
+    margin-top: 18px;
+}
+}
+
+@media only screen and (max-width:1102px){
+	
+	div.header-content-section .header-content {
+    position: relative;
+    margin-top: -47px;
+	
+    margin-left: 9px;
+    margin-right: -190px;
+}
+	
+}
+
+@media only screen and (max-width:991px){
+		div.mobile-menu span {
+			display:block;
+		}
+	
+	nav.navbar ul {
+   display:none;
+	
+}
+div.site-hed-btn {
+   display:none;
+	
+}
+	
+	div.header-content-section .header-content {
+    position: relative;
+    margin-top: -47px;
+	
+    margin-left: 9px;
+    margin-right: 50px;
+}
+	
+	section.mix-section .protfolio-menu{
+	justify-content:center;
+	align-items:center;
+	margin-bottom:50px;
+	flex-wrap:wrap;
+	
+}
+section.mix-section .protfolio-menu li{
+	flex:1 1 250px;
+}
+section.mix-section .populer-section img {
+    padding-left:1px;
+    max-width:500px;
+}
+div.pass-box{
+	
+	 position: relative;
+    padding-top: 100px;
+    margin-right:0px;
+    margin-left:0px;
+}
+div.about-box {
+    position: relative;
+    padding-top: 0px;
+    margin-right:0px;
+    margin-left: 0px;
+}
+}
+
+@media only screen and (max-width:767px){
+	
+	div.testi-box1 {
+    max-width: 1156px;
+    min-height: 390px;
+    margin: 50px 108px 50px 111px;
+    padding: 50px 80px 70px 80px;
+}
+div.testi-box1 p {
+    
+    font-size: 14px;
+    
+}
+	div.testi-box1 .clint-name {
+   
+    font-size: 24px;
+   
+}
+div.testi-box1 .clint-work {
+   
+    font-size: 12px;
+   
+}
+div.testi-box1 {
+    max-width: 1156px;
+    min-height: 390px;
+    margin: 50px 108px 50px 111px;
+    padding: 50px 26px 30px 26px;
+}
+div.header-content-section .header-content {
+    position: relative;
+    margin-top: -47px;
+    margin-left: 9px;
+    margin-right: 0px;
+    text-align: center;
+}
+div.header-content h1 {
+    
+    font-size: 45px;
+   
+}
+
+}
+@media only screen and (max-width:700px){
+section.mix-section .populer-section img {
+    padding-left:1px;
+    max-width:200px;
+}
+div.testi-box1 {
+    max-width: 1067px;
+    min-height: 283px;
+    margin: 50px 100px 50px 100px;
+}
+
+@media only screen and (max-width:600px){
+	div.owl-nav button.owl-prev img, div.owl-nav button.owl-next img {
+      
+    padding: 13px 20px 17px 20px;
+   
+    width: 63px;
+    height: 53px
+}
+
+section.carousel-section .container-testi {
+    max-width: 1700px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px;
+}
+div.testi-box1 {
+    max-width: 1067px;
+    min-height: 283px;
+    margin: 50px 68px 50px 68px;
+}
+	
+}
+@media only screen and (max-width:507px){
+	div.header-content p {
+    color: #443F3F;
+    font-size: 16px;
+    line-height: 31px;
+    letter-spacing: 1.1px;
+    padding: 10px 30px 10px 0px;
+    font-weight: 400;
+}
+
+div.header-content h1 {
+    
+    font-size: 35px;
+    line-height: 70px;
+    font-weight: 600;
+}
+div.header-content-section .header-content {
+        text-align: center;
+    margin-top: -57px;
+    margin-left: 9px;
+    margin-right: 0px;
+}
+div.hed-cont-btn .see {
+  
+ 
+    font-size: 16px;
+   
+  
+    text-align: center;
+    align-items: center;
+    padding: 10px 19px 12px 19px;
+    border-radius: 5px;
+}
+	
+	div.hed-cont-btn .book {
+   
+    font-size: 16px;
+    padding: 10px 28px 12px 28px;
+    margin-left: 15px;
+}
+div.hed-cont-btn {
+    display: flex;
+    display: block;
+    margin-left: -20px;
+}
+div.about-box {
+   
+    
+    margin-right: -105px;
+    margin-left: 10px;
+}
+div.about-box h2 {
+   
+    font-size: 35px;
+   
+}
+div.pass-box h2 {
+   
+    font-size: 35px;
+    
+}
+div.pass-box {
+  
+    margin-right: -48px;
+    margin-left: 0px;
+}
+
+div.owl-nav button.owl-prev {
+    position: absolute;
+    left: 25%;
+    margin-top: -35px;
+  margin-bottom:300px;
+}
+div.owl-nav button.owl-next {
+    right: 25%;
+    margin-top: -35px;
+    position: absolute;
+  margin-bottom:300px;
+}
+div.testi-box1 {
+    max-width: 1092px;
+    min-height: 283px;
+    margin: 50px 10px 50px 10px;
+}
+div.owl-nav button.owl-prev img, div.owl-nav button.owl-next img {
+    padding: 13px 20px 17px 20px;
+    width: 59px;
+    height: 48px;
+}
+}
+
+@media only screen and (max-width:420px){
+	section.pass-section, section.about-section {
+    min-height: auto;
+    max-width: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin-bottom: 50px;
+}
+    div.pass-box,
+	div.about-box {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+	section.mix-section .protfolio-menu{
+	justify-content:center;
+	align-items:center;
+	margin-bottom:50px;
+	flex-wrap:wrap;
+	flex-direction:row;
+	
+}
+section.mix-section .protfolio-menu li{
+	flex:1 250px;
+}
+}
+
+@media only screen and (max-width:360px){
+	.logo img {
+    width: 160px;
+}
+
+div.form-box input[type="text"] {
+    background-color: #F4F9FF;
+    width: 230px;
+    height: 48px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    z-index: -1;
+    margin-bottom: 30px;
+}
+div.header-content h1 {
+    font-size: 28px;
+    line-height: 70px;
+    font-weight: 600;
+}
+	
+div.footer-menu {
+    position: relative;
+    margin-bottom: 30px;
+}	
+}
